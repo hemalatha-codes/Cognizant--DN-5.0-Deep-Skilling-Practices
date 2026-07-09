@@ -5,24 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bba96d1f-e828-4e19-b681-8c2e844b8bf1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Hello_World_RESTful_Web_Service/spring-learn/.idea/Hello_World_RESTful_Web_Service.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Week_1/TDD using JUnit5 and Mockito/1_JUnit_Basic Testing Exercises/Ex4_AAA_Pattern,Test Fixtures,Setup_&amp;_Teardown Methods in JUnit/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Week_1/TDD using JUnit5 and Mockito/1_JUnit_Basic Testing Exercises/Ex4_AAA_Pattern,Test Fixtures,Setup_&amp;_Teardown Methods in JUnit/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Week_1/TDD using JUnit5 and Mockito/1_JUnit_Basic Testing Exercises/Ex4_AAA_Pattern,Test Fixtures,Setup_&amp;_Teardown Methods in JUnit/target/surefire-reports/2026-06-20T16-31-42_651.dumpstream" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Week_1/TDD using JUnit5 and Mockito/1_JUnit_Basic Testing Exercises/Ex4_AAA_Pattern,Test Fixtures,Setup_&amp;_Teardown Methods in JUnit/target/surefire-reports/2026-06-20T16-52-07_095.dumpstream" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Week_1/TDD using JUnit5 and Mockito/1_JUnit_Basic Testing Exercises/Ex4_AAA_Pattern,Test Fixtures,Setup_&amp;_Teardown Methods in JUnit/target/surefire-reports/AAAPatternTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Week_1/TDD using JUnit5 and Mockito/1_JUnit_Basic Testing Exercises/Ex4_AAA_Pattern,Test Fixtures,Setup_&amp;_Teardown Methods in JUnit/target/surefire-reports/TEST-AAAPatternTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Week_1/TDD using JUnit5 and Mockito/1_JUnit_Basic Testing Exercises/Ex4_AAA_Pattern,Test Fixtures,Setup_&amp;_Teardown Methods in JUnit/target/test-classes/AAAPatternTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Week_1/TDD using JUnit5 and Mockito/3. Mockito exercises/Ex1_Mocking_and_Stubbing/Output/Output_Screenshot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Week_1/TDD using JUnit5 and Mockito/3. Mockito exercises/Ex1_Mocking_and_Stubbing/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Week_1/TDD using JUnit5 and Mockito/3. Mockito exercises/Ex1_Mocking_and_Stubbing/src/main/java/com/practice/ExternalApi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Week_1/TDD using JUnit5 and Mockito/3. Mockito exercises/Ex1_Mocking_and_Stubbing/src/main/java/com/practice/MyService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Week_1/TDD using JUnit5 and Mockito/3. Mockito exercises/Ex1_Mocking_and_Stubbing/src/test/java/com/practice/MyServiceTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Week_1/TDD using JUnit5 and Mockito/3. Mockito exercises/Ex2_Verifying_Interactions/Output/Output_ Screenshot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Week_1/TDD using JUnit5 and Mockito/3. Mockito exercises/Ex2_Verifying_Interactions/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Week_1/TDD using JUnit5 and Mockito/3. Mockito exercises/Ex2_Verifying_Interactions/src/main/java/com/practice/ExternalApi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Week_1/TDD using JUnit5 and Mockito/3. Mockito exercises/Ex2_Verifying_Interactions/src/main/java/com/practice/MyService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../../../Week_1/TDD using JUnit5 and Mockito/3. Mockito exercises/Ex2_Verifying_Interactions/src/test/java/com/practice/MyServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../REST-Get_country_based_on_country_code/springlearn/target/classes/com/cognizant/springlearn/Country.class" beforeDir="false" afterPath="$PROJECT_DIR$/../REST-Get_country_based_on_country_code/springlearn/target/classes/com/cognizant/springlearn/Country.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../REST-Get_country_based_on_country_code/springlearn/target/classes/com/cognizant/springlearn/SpringLearnApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../REST-Get_country_based_on_country_code/springlearn/target/classes/com/cognizant/springlearn/SpringLearnApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../REST-Get_country_based_on_country_code/springlearn/target/classes/com/cognizant/springlearn/controller/CountryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../REST-Get_country_based_on_country_code/springlearn/target/classes/com/cognizant/springlearn/controller/CountryController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../REST-Get_country_based_on_country_code/springlearn/target/classes/com/cognizant/springlearn/exception/CountryNotFoundException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../REST-Get_country_based_on_country_code/springlearn/target/classes/com/cognizant/springlearn/exception/CountryNotFoundException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../REST-Get_country_based_on_country_code/springlearn/target/classes/com/cognizant/springlearn/service/CountryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../REST-Get_country_based_on_country_code/springlearn/target/classes/com/cognizant/springlearn/service/CountryService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5.JWT-handson/Create_authentication_service_that_returns_JWT/JWT_Authentication_Service/target/classes/com/cognizant/springlearn/SpringLearnApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../5.JWT-handson/Create_authentication_service_that_returns_JWT/JWT_Authentication_Service/target/classes/com/cognizant/springlearn/SpringLearnApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5.JWT-handson/Create_authentication_service_that_returns_JWT/JWT_Authentication_Service/target/classes/com/cognizant/springlearn/controller/AuthenticationController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../5.JWT-handson/Create_authentication_service_that_returns_JWT/JWT_Authentication_Service/target/classes/com/cognizant/springlearn/controller/AuthenticationController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5.JWT-handson/Create_authentication_service_that_returns_JWT/JWT_Authentication_Service/target/classes/com/cognizant/springlearn/security/JwtUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../5.JWT-handson/Create_authentication_service_that_returns_JWT/JWT_Authentication_Service/target/classes/com/cognizant/springlearn/security/JwtUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../5.JWT-handson/Create_authentication_service_that_returns_JWT/JWT_Authentication_Service/target/classes/com/cognizant/springlearn/security/SecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../5.JWT-handson/Create_authentication_service_that_returns_JWT/JWT_Authentication_Service/target/classes/com/cognizant/springlearn/security/SecurityConfig.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,31 +33,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.SpringLearnApplication.executor": "Run",
-    "Maven.country-rest [clean].executor": "Run",
-    "Maven.country-rest [compile].executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "Spring Boot.SpringLearnApplication (1).executor": "Run",
-    "Spring Boot.SpringLearnApplication.executor": "Run",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Cognizant--DN-5.0-Deep-Skilling-Practices/JavaFSE_DeepSkilling/Week_3/Spring_REST_using_Spring_Boot_3/2.spring-rest-handson/REST-Country_Web_Service",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.SpringLearnApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.country-rest [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.country-rest [compile].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;Spring Boot.SpringLearnApplication (1).executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.SpringLearnApplication.executor&quot;: &quot;Run&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Cognizant--DN-5.0-Deep-Skilling-Practices/JavaFSE_DeepSkilling/Week_3/Spring_REST_using_Spring_Boot_3/2.spring-rest-handson/REST-Country_Web_Service&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Spring Boot.SpringLearnApplication (1)">
     <configuration name="SpringLearnApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cognizant.springlearn.SpringLearnApplication" />
