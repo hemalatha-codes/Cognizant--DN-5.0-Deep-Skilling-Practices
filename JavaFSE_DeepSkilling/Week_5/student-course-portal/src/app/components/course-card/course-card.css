@@ -1,0 +1,16 @@
+/* Task 29: Dynamic state context class mappings configuration */
+.card--enrolled {
+  background-color: #ebf5fb !important;
+  box-shadow: 0 0 8px rgba(52, 152, 219, 0.4) !important;
+}
+
+.card--full {
+  border-style: dashed;
+  font-weight: 500;
+}
+
+.expanded {
+  border: 2px solid #2c3e50 !important;
+  transform: scale(1.02);
+  transition: all 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
