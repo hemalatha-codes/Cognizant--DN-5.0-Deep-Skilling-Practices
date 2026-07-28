@@ -1,0 +1,13 @@
+<!-- Added appHighlight to the container div, and piped credits display -->
+<div appHighlight class="course-card" style="border: 1px solid #e0e0e0; padding: 20px; margin: 12px; border-radius: 8px; width: 260px; background: white; box-shadow: 0 2px 4px rgba(0,0,0,0.05); cursor: pointer;">
+  <h3 style="margin-top: 0; color: #2c3e50;">{{ course.name }}</h3>
+  <p style="margin: 6px 0;"><strong>Code:</strong> {{ course.code }}</p>
+  
+  <!-- Uses our custom structural Pipe transformation engine -->
+  <p style="margin: 6px 0;"><strong>Credits:</strong> {{ course.credits | creditLabel }}</p>
+  
+  <p style="margin: 6px 0;"><strong>Status:</strong> {{ course.status }}</p>
+  <button (click)="onEnrollClick()" style="background-color: #34495e; color: white; border: none; padding: 8px 16px; border-radius: 4px; cursor: pointer; margin-top: 10px; width: 100%;">
+    Request Enrollment
+  </button>
+</div>
