@@ -1,8 +1,0 @@
-angular.json: Controls project build settings, assets compilation pipelines, and environment budget caps.
-tsconfig.json: Defines the base TypeScript compilation flags and global compiler behavior rules.
-tsconfig.app.json: Fine-tunes configuration details explicitly targeting application source code compilation.
-package.json: Declares third-party module dependencies, version control definitions, and build lifecycle scripts.
-src/main.ts: Acts as the structural execution entryway that boots up the root standalone application component.
-src/app/app.config.ts: Configures root provider configurations, application routing dependencies, and framework hooks.
-src/app/app.component.ts: Orchestrates the core master controller logic for the primary shell layout page view.
-src/index.html: Serves as the primary single-page HTML target wrapper where your runtime logic mounts.

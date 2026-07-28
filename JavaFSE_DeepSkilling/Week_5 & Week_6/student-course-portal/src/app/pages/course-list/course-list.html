@@ -1,8 +1,0 @@
-<!-- Simply append | async to loop through the NgRx store stream -->
-<div style="display: flex; flex-wrap: wrap; margin-top: 20px;">
-  <app-course-card 
-    *ngFor="let c of courses$ | async" 
-    [course]="c" 
-    (enrollRequested)="onEnroll($event)">
-  </app-course-card>
-</div>
