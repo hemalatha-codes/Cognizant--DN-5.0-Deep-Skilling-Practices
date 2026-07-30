@@ -1,0 +1,17 @@
+/* Task 45: Framework context validation color state transition triggers */
+input.ng-invalid.ng-touched, select.ng-invalid.ng-touched {
+  border: 1px solid #e74c3c !important;
+  background-color: #fdf2f2;
+}
+
+input.ng-valid.ng-touched, select.ng-valid.ng-touched {
+  border: 1px solid #2ecc71 !important;
+  background-color: #f4fbf7;
+}
+
+.error-msg {
+  color: #e74c3c;
+  font-size: 0.8rem;
+  margin-top: 4px;
+  display: block;
+}
